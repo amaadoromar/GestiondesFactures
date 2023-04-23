@@ -14,7 +14,7 @@ To use the program, simply compile and run the code. The program will display a 
 # Contribution
 If you would like to contribute to the project, please fork the repository and make changes on your own branch. When you are ready, create a pull request for review.
 
-
+# Screenshots
 
 ![image](https://user-images.githubusercontent.com/71513920/233869418-5408efbd-5940-4b7c-9713-2956839095b7.png)
 
