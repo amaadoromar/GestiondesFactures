@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1672956529 source:e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\main.cpp
+	<iostream>
+	"client.h"
+	"produit.h"
+	"facture.h"
+	"ctime"
+
+1672794310 e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\client.h
+	<iostream>
+	<math.h>
+
+1672953707 e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\produit.h
+	<iostream>
+	<math.h>
+
+1672953805 e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\facture.h
+	<iostream>
+	<math.h>
+	<vector>
+
+1672873090 source:e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\client.cpp
+	"client.h"
+
+1672931066 source:e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\facture.cpp
+	"date.h"
+	"client.h"
+	"produit.h"
+	"facture.h"
+
+1672922850 source:e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\produit.cpp
+	"produit.h"
+
+1672753979 source:e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\date.cpp
+	"date.h"
+
+1672606080 e:\emsi\1ereanneecycleding\semestre1\tp c\projet\facture\date.h
+	<iostream>
+	<math.h>
+	<iomanip>
+	<string>
+	<ctime>
+
