@@ -11,7 +11,7 @@ The todayfactures function takes the list of all invoices and displays only thos
 # Usage
 To use the program, simply compile and run the code. The program will display a menu of options for managing clients, products, and invoices. Use the arrow keys to select an option and press enter to confirm. The program will then prompt you for any necessary inputs and perform the selected action. The program allows you to add, modify, and delete clients, products, and invoices, as well as manage invoices in more detail.
 
-Contribution
+# Contribution
 If you would like to contribute to the project, please fork the repository and make changes on your own branch. When you are ready, create a pull request for review.
 
 
